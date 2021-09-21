@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4312327145513073448}
   - component: {fileID: 4312327145513073449}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: Point light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,7 +103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4308046845818483717}
   - component: {fileID: 4201401999916538021}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: Damager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -165,7 +165,7 @@ GameObject:
   - component: {fileID: 4307997544726997145}
   - component: {fileID: 4250311669967190577}
   - component: {fileID: 4201575371874721679}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: FootStepSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 4312120654113548973}
   - component: {fileID: 4250273238736366407}
   - component: {fileID: 4201310296856073819}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: DeathSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -457,7 +457,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4312123494073042745}
   - component: {fileID: 4197433743180531997}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: DamagerContact
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -519,7 +519,7 @@ GameObject:
   - component: {fileID: 4307837475481310261}
   - component: {fileID: 4250954899002538965}
   - component: {fileID: 4197486647190609131}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: AttackSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -674,7 +674,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4311798512198062667}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: AudioSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -710,7 +710,7 @@ GameObject:
   - component: {fileID: 4307901291840332455}
   - component: {fileID: 4250228110516462039}
   - component: {fileID: 4201027760459314017}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: FootStepSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -862,7 +862,7 @@ GameObject:
   - component: {fileID: 4201830212328739387}
   - component: {fileID: 4201312996955359887}
   - component: {fileID: 4314069459120522636}
-  m_Layer: 21
+  m_Layer: 9
   m_Name: Chomper_edit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
